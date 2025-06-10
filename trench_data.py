@@ -1,9 +1,4 @@
 
-import json
-
-# This data should be generated from the spreadsheet and rules files via parsing scripts.
-# The following is a placeholder stub.
-
 all_factions_data = {
     "Heretic Legion": {
         "faction": "Heretic Legion",
